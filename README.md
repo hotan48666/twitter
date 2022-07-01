@@ -60,3 +60,9 @@
 - pages 폴더내에 js 렌더링시 스태틱 화면으로 동작
 
 #### 6. TailwindCSS explanation and styling main file
+
+- https://github.com/lukef7fywmrp/twitter-clone/blob/main/components/Sidebar.js(이미지 리소스)
+
+#### 7. Sidebar top icon (TailwindCSS responsiveness explanation, NextJS Image Component)
+
+#### 8. Tailwind utilities, components and globals.css style
