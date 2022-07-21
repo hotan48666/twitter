@@ -66,3 +66,33 @@
 #### 7. Sidebar top icon (TailwindCSS responsiveness explanation, NextJS Image Component)
 
 #### 8. Tailwind utilities, components and globals.css style
+
+#### 9. Sidebar link and tweet button
+
+- heroicons.com(아이콘 리소스)
+
+#### 10. Feed Component
+
+#### 11. Input Component Design (Textarea, React Ref, Image Picker, Emoji Mart)
+
+#### 12. Firebase configuration and post upload
+
+#### 13. Add image to post
+
+#### 14. Next Auth (Authentication, Login Page, Firebase, Google Cloud Console)
+
+#### 15. Use info from logged in user and log out
+
+#### 16. Retrieving posts from firebase (Posts, Post component)
+
+#### 17. Implementing Recoil (State Management Library)
+
+#### 18. Post icon actions (Like or unlike post, Delete post, Event propagation)
+
+#### 19. Modal Component (Headless UI, New post input, Reply to post/Send Comment)
+
+#### 20. Post Page
+
+#### 21. Comment component
+
+#### 22. Widgets and Trending component
